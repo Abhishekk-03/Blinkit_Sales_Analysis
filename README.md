@@ -5,7 +5,7 @@
 - Total Sales (in lakhs)
 - Average Sales
 - Average Product Rating
-- Number of Distinct Items Sold
+- Number of Items Sold
 
 **Granular Analysis:**
 - Top 5 Product Categories by total and average sales.
