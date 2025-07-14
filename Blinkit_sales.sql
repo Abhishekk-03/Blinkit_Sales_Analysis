@@ -35,8 +35,6 @@ as [Avg_Rating]
 from BlinkIT_Data
 
 
---Granular Requirement
-
 --Analyze Total_Sales, Avg_Sale, No_of_item, Avg_Rating by 
 select TOP 5 item_Fat_content,
 		cast(sum(total_Sales)/100000 as decimal(10,2)) as [Total_Sale], --values in lakh
